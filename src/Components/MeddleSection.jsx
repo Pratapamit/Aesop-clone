@@ -1,5 +1,6 @@
 import React from "react";
-import video from './media2.mp4';
+
+let video='https://player.vimeo.com/external/525931930.hd.mp4?s=63966b7af23dd5eca091e6d77aeb8b6ce6d81635&profile_id=175';
 
 function meddleSection() {
     return (

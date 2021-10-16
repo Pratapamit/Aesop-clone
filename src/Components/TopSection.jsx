@@ -1,8 +1,7 @@
 import React from "react";
-import video from './media.mp4';
 
 let img = "https://images.ctfassets.net/u1nb1km7t5q7/1CT25CcvFle4zBVIBZQ7U7/06907ca7f36f8521dc6221359570968c/Aesop_PSAOIS_2021_Web_Homepage_Primary_Product_Overlay_Desktop_Tablet_640x640px.png";
-
+let video='https://www.aesop.com/u1nb1km7t5q7/6Nrc3q0kos00YbwFDcQZA/3bfd8d64f9a7b402271bbe6d1e969da1/Aesop_PSAOIS_2021_Web_Homepage_Primary_V2_50-50_Desktop_1440x1500px.mp4';
 function TopSection() {
     return (
         <>
